@@ -14,7 +14,7 @@ The physical task will consist of 4 subtasks.
 
 
 **Line Maze**
-The line maze will be handled in two stages.
+~ The line maze will be handled in two stages.
 
 **Exploration stage**
 ~ The robot will start from the starting square (white) and it will get the opportunity to explore the maze. The exploration stage will end when the robot reaches the white checkpoint square on the opposite side of the maze. There will be no loops in the maze, and only 90-degree turns will exist.
