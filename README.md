@@ -17,7 +17,7 @@ The physical task will consist of 4 subtasks.
 The line maze will be handled in two stages.
 
 **Exploration stage**
-The robot will start from the starting square (white) and it will get the opportunity to explore the maze. The exploration stage will end when the robot reaches the white checkpoint square on the opposite side of the maze. There will be no loops in the maze, and only 90-degree turns will exist.
+- The robot will start from the starting square (white) and it will get the opportunity to explore the maze. The exploration stage will end when the robot reaches the white checkpoint square on the opposite side of the maze. There will be no loops in the maze, and only 90-degree turns will exist.
 
 **Speeding stage**
 The robot will have to calculate the shortest path using the data taken in the exploration stage and find its way back to the starting square from the checkpoint through the shortest path. Marks allocation for this stage will depend on how fast the robot will return to the starting square.
