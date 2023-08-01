@@ -1,6 +1,7 @@
 # Robot Design and Competition
 
-This repository contains the files related to the semester 3 module EN2533: Robot Design and Competition. The competition consisted of 2 tasks: a Simulation Task and a Physical Task.
+This repository contains the files related to the semester 3 module EN2533: Robot Design and Competition. 
+The competition consisted of 2 tasks: a Simulation Task and a Physical Task.
 
 
 ### Simulation Task
