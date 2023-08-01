@@ -1,40 +1,29 @@
-﻿
+# Robot Design and Competition
 
-## EN2533 Robot Design and Competition 2022
-
-## Physical Task
-
-The physical task will consist of 4 subtasks.
-- *Line Maze*
-- *Curved wall*
-- *Blind box*
-- *Line following*
-</br>
-</br>
+This repository contains the files related to the semester 3 module EN2533: Robot Design and Competition. The competition consisted of 2 tasks: a Simulation Task and a Physical Task.
 
 
-**Line Maze**
-~ The line maze will be handled in two stages.
+### Simulation Task
 
-**Exploration stage**
-~ The robot will start from the starting square (white) and it will get the opportunity to explore the maze. The exploration stage will end when the robot reaches the white checkpoint square on the opposite side of the maze. There will be no loops in the maze, and only 90-degree turns will exist.
+For the simulation task, participants were expected to design a virtual robot using the Webots Open-Source Simulator (version R2021b). The virtual robot's performance was evaluated in three tasks:
 
-**Speeding stage**
-~ The robot will have to calculate the shortest path using the data taken in the exploration stage and find its way back to the starting square from the checkpoint through the shortest path. Marks allocation for this stage will depend on how fast the robot will return to the starting square.
-</br>
-</br>
+1.  **Line Following:** The robot had to accurately follow a white line on a black surface, which could include both straight and curved sections.
+2.  **Segmented Wall Following:** The robot needed to follow a segmented wall with various shapes, including straight and curved sections.
+3.  **Chessboard Area Exploration:** The robot played the role of a black rook in a chess game and was tasked with delivering a checkmate in one move. After achieving this, it could explore the chessboard arena and perform additional tasks.
 
-**Curved Wall**
-~ Once the robot reaches the starting square after completing the line maze, it has to follow a curved wall to the left of the robot to reach the blind box. The robot should not touch or go beyond the red line while following the curved wall. If the robot crosses the red line, a penalty will be imposed. The wall will be parallel to the entry point to the maze, and the gap between the starting square of the maze and the start of the wall is less than or equal to 100mm. The entrance to the blind box is located at the end of the wall, and the robot should enter the blind box.
-</br>
-</br>
+The virtual robot had to complete these tasks while adhering to detailed simulation specifications, including realistic sensor and actuator configurations.
 
-**Blind box**
-~ Blind box will contain three openings. One is the entrance, another opening will be the wrong exit and the final opening will be the correct exit. A line will be located on the floor near the correct exit. The robot must come out of the box via the correct exit and should follow the line to reach its final destination square. If the robot hits the blind box walls, which will be evident from the motion of the blind box, a penalty will be imposed.
-</br>
-</br>
+### Physical Task
 
-**Line Maze Dimensions**
-- Starting square and ending square are 25cm x 25cm.
-- The width of the line is 30mm.
+The physical robot, built according to specified robot specifications, underwent testing in three subtasks:
 
+1.  **Line Maze Exploration:** The robot began at a starting square and explored a maze without loops, using only 90-degree turns, until reaching a white checkpoint square on the opposite side. Marks were allocated based on the speed of return to the starting square via the shortest path.
+2.  **Curved Wall Following:** After completing the line maze, the robot had to follow a curved wall without crossing a red line, reaching a blind box entrance located at the end of the wall.
+3.  **Blind Box Navigation:** The robot entered the blind box, which contained three openings – the entrance, a wrong exit, and the correct exit. The robot had to exit through the correct exit and follow a line to reach its final destination square.
+
+The physical robot's performance was evaluated based on its accuracy and efficiency in completing these tasks.
+
+
+
+
+_Note: Detailed task descriptions are available in the repository._
