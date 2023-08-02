@@ -29,3 +29,8 @@ The physical robot's performance was evaluated based on its accuracy and efficie
 
 
 _Note: Detailed task descriptions are available in the repository._
+
+
+An image of the Physical Robot is given below,
+
+![Robot](https://github.com/randika-perera/Robot-Design-and-Competition/assets/129817316/ded1b5d2-1509-46c6-9a43-2419693491a3)
