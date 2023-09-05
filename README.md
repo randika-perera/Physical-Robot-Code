@@ -25,12 +25,11 @@ The physical robot, built according to specified robot specifications, underwent
 
 The physical robot's performance was evaluated based on its accuracy and efficiency in completing these tasks.
 
+### Simulation Robot
+![Picture2](https://github.com/randika-perera/Robot-Design-and-Competition/assets/129817316/ef5d01e9-dd5b-492d-94df-f18494dd80bc)
 
+### Physical Robot
 
+![Picture1](https://github.com/randika-perera/Robot-Design-and-Competition/assets/129817316/8b6264a5-b888-4a7a-bd48-ea3ae8c5fe99)
 
-_Note: Detailed task descriptions are available in the repository._
-
-
-An image of the Physical Robot is given below,
-
-![Robot](https://github.com/randika-perera/Robot-Design-and-Competition/assets/129817316/ded1b5d2-1509-46c6-9a43-2419693491a3)
+### For detailed task descriptions: [Task.pdf](https://github.com/randika-perera/Robot-Design-and-Competition/blob/main/EN2533%20Task%20Description.pdf)
