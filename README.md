@@ -28,7 +28,7 @@ The physical robot's performance was evaluated based on its accuracy and efficie
 
 
 
-_Note: Detailed task descriptions are available in the repository._
+> _Note: Detailed task descriptions are available in the repository._
 
 
 Images of Physical Robot,
