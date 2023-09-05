@@ -31,6 +31,17 @@ The physical robot's performance was evaluated based on its accuracy and efficie
 _Note: Detailed task descriptions are available in the repository._
 
 
-An image of the Physical Robot is given below,
+Images of Physical Robot,
 
-![Robot](https://github.com/randika-perera/Robot-Design-and-Competition/assets/129817316/ded1b5d2-1509-46c6-9a43-2419693491a3)
+![1](https://github.com/randika-perera/Robot-Design-and-Competition/assets/129817316/d79185e1-d1c3-4aca-93c1-d5874adf6da9)
+
+![5](https://github.com/randika-perera/Robot-Design-and-Competition/assets/129817316/a2eafbc5-6a7e-443e-82a1-4f6991095f87)
+
+
+Images of Virtual Robot,
+
+![7](https://github.com/randika-perera/Robot-Design-and-Competition/assets/129817316/00cf426b-a363-4be0-b0cd-0e12e28b978d)
+
+![6](https://github.com/randika-perera/Robot-Design-and-Competition/assets/129817316/b498fd3f-233c-4915-bc17-fb960d06ab9f)
+
+
