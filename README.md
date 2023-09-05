@@ -32,4 +32,4 @@ The physical robot's performance was evaluated based on its accuracy and efficie
 
 ![Picture1](https://github.com/randika-perera/Robot-Design-and-Competition/assets/129817316/8b6264a5-b888-4a7a-bd48-ea3ae8c5fe99)
 
-### For detailed task descriptions: [Task Description PDF](https://github.com/randika-perera/Robot-Design-and-Competition/blob/main/EN2533%20Task%20Description.pdf)
+### For detailed task descriptions: [Task.pdf](https://github.com/randika-perera/Robot-Design-and-Competition/blob/main/EN2533%20Task%20Description.pdf)
